@@ -1,4 +1,4 @@
-package faisal
+package profile
 
 import (
 	"fmt"
